@@ -1,87 +1,79 @@
-<h1 align="center">
-  Hey there 👋 I'm <span style="color:#4CAF50">Dhanush</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Enthusiast | Full-Stack Developer | WordPress Expert | UI/UX Designer</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Dhanush+%F0%9F%91%8B;Full-Stack+Developer;UI-Focused+Builder;WordPress+Specialist" alt="Typing SVG" />
+
+<p>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/dhanushrs1/dhanushrs1/assets/your-image-id/your-custom-banner.png" alt="Banner" width="100%"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Dhanush**, a passionate developer from **India** with a love for building creative digital solutions. I enjoy working across the stack and specialize in:
+I am a developer from **India 🇮🇳** passionate about combining **AI automation** with robust web tools. My work follows a **design-first mindset**—functionality means nothing without excellent UI/UX.
 
-- 🤖 AI & Machine Learning (Python, NLP, Transformers)
-- 🔌 WordPress Development (Custom themes & plugins)
-- 🎨 UI/UX Design with Figma
-- 💻 Frontend & Backend (React, PHP, JavaScript, MySQL)
-
-Always curious, always learning.
+* 🔭 **Currently working on:** Personal and client-focused full-stack projects.
+* 🌱 **Currently learning:** AI Agents, LLMs, and advanced Next.js workflows.
+* 🎨 **Philosophy:** Performance, Simplicity, and Real-world Utility.
+* 💡 **Fun fact:** I love building tools that automate the boring stuff!
 
 ---
 
-## 🎓 Currently Exploring
+## 🛠 Tech Stack
 
-- Deep Learning & LLM fine-tuning
-- Next.js for performant web apps
-- Open Source contribution
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 
-## 📊 GitHub Stats
+**Frameworks & Tools**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrs1&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrs1&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,wordpress,mysql" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,ai,ps" />
-</p>
+</div>
 
 ---
 
-## 💡 Featured Projects
+## 💡 What I Build
 
-### 🧠 AI Research Platform
-> Built an NLP-based summarization app using Python & Transformers.
-
-### 🔌 WP Plugin Pack
-> Custom plugin suite for SEO, Analytics, Shortcodes.
-
-### 🎨 Design-Driven Portfolio
-> Responsive portfolio powered by Headless WordPress + Figma Design.
+| Category | Description |
+| :--- | :--- |
+| **🤖 AI Tools** | Automation scripts, SEO text generators, and LLM integrations. |
+| **🔌 WordPress** | Custom plugins, themes, and performance optimization. |
+| **🎨 UI Development** | Clean, responsive websites focused on speed. |
 
 ---
 
-## 🚑 Let's Connect
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhanushrs1/dhanushrs1/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ✨</b>
-</p>
+<div align="center">
+  <a href="https://github.com/dhanushrs1">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrs1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/dhanushrs1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrs1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  </a>
+</div>
