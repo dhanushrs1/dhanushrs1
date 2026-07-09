@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20C20E&height=200&section=header&text=Dhanush%20R%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20WordPress%20Specialist%20%7C%20AI%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20C20E&height=200&section=header&text=Dhanush%20R%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Student%20%7C%20WordPress%20Developer%20%7C%20SEO%20%26%20Blogging&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=20C20E&background=00000000&center=true&vCenter=true&width=550&lines=Design-first+full-stack+developer;WordPress+plugins+%26+performance+tools;Building+AI+agents+%26+LLM+workflows;Turning+repetitive+work+into+automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=20C20E&background=00000000&center=true&vCenter=true&width=550&lines=3rd-year+Engineering+Student%2C+VTU;5%2B+years+in+Blogging+%26+WordPress;Freelance+WordPress+Dev+(Elementor%2C+GenerateBlocks);SEO+focused+%7C+15%2B+projects+delivered" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,15 +23,16 @@
 
 ## 🚀 About Me
 
-I'm a developer from **India 🇮🇳** who blends **AI automation** with practical, production-ready web tools. Every project starts with the interface — functionality means nothing if the UI/UX isn't right.
+I'm an engineering student from **India 🇮🇳**, currently in my **3rd year (VTU, KVG College of Engineering, Sullia)**, fascinated by coding and always building something on the side. Alongside my studies, I've spent close to **5 years** in blogging, WordPress development, and SEO — turning that into freelance client work.
 
 ```javascript
 const dhanush = {
-  location: "India 🇮🇳",
-  currentlyBuilding: "Full-stack & client-focused web products",
-  currentlyLearning: ["AI Agents", "LLMs", "Advanced Next.js workflows"],
-  philosophy: "Performance + Simplicity + Real-world Utility",
-  funFact: "I build tools that automate the boring stuff"
+  status: "3rd Year Engineering Student — VTU (KVG College of Engineering, Sullia)",
+  experience: "5+ years — Blogging, WordPress Development & SEO",
+  freelance: "WordPress Developer & Designer (Elementor, GenerateBlocks)",
+  projectsShipped: "15+ websites & WordPress projects",
+  currentlyLearning: ["AI Agents", "LLMs", "Automation workflows"],
+  passion: "Building & developing websites, one project at a time",
 };
 ```
 
@@ -60,12 +61,12 @@ const dhanush = {
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 AI Tools</h3>
-      <p>Automation scripts, SEO content generators, and LLM-powered integrations that remove repetitive manual work.</p>
+      <h3>🔌 WordPress Development</h3>
+      <p>Custom sites and builds using Elementor and GenerateBlocks — 15+ WordPress projects delivered for clients.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔌 WordPress</h3>
-      <p>Custom plugins, themes, and performance optimization built for speed and long-term maintainability.</p>
+      <h3>📈 SEO & Blogging</h3>
+      <p>5+ years writing and optimizing content — on-page SEO, keyword strategy, and growing organic traffic.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🎨 UI Development</h3>
@@ -79,13 +80,16 @@ const dhanush = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrs1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="165" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushrs1&theme=tokyonight&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="165" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushrs1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&count_private=true" height="165" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=dhanushrs1&theme=tokyonight&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="165" alt="streak stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushrs1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9" height="165" alt="top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushrs1&theme=react-dark&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff" height="165" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/20C20E/dhanushrs1" alt="contribution chart" width="100%"/>
 </div>
 
 <br/>
